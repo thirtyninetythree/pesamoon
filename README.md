@@ -1,2 +1,2 @@
 # pesamoon
-Final year project. An android to send receive erc 20 tokens
+Final year project. An android fintech app to send and receive erc 20 tokens
